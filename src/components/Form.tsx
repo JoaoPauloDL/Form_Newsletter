@@ -1,4 +1,4 @@
-
+import { User } from "../types/User";
 
 const Form = () => {
   return (
